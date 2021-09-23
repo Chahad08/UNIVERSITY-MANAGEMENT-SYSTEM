@@ -1,0 +1,67 @@
+[
+    {
+        "name": "abuhasnat",
+        "email": "chahad3340301@gmail.com",
+        "gender": "male",
+        "birthday": "2021-03-31",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "Gulshan-1",
+        "permanentAddress": "Mirpur",
+        "ssc": "4.44",
+        "hsc": "4.75",
+        "cgpa": "3.90"
+    },
+    {
+        "name": "abuhasnat",
+        "email": "chahad3340301@gmail.com",
+        "gender": null,
+        "birthday": "2021-04-02",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "dhaka",
+        "permanentAddress": "banani",
+        "ssc": "3.33",
+        "hsc": "3.20",
+        "cgpa": "3.95"
+    },
+    {
+        "name": "abuhasnat",
+        "email": "chahad3340301@gmail.com",
+        "gender": "on",
+        "birthday": "2021-04-22",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "dhaka",
+        "permanentAddress": "Chasara",
+        "ssc": "3.33",
+        "hsc": "3.20",
+        "cgpa": "3.95"
+    },
+    {
+        "name": "abuhasnat",
+        "email": "chahad3340301@gmail.com",
+        "gender": "on",
+        "birthday": "2021-03-31",
+        "phonenumber": "01920962520",
+        "otp": "619484",
+        "presentAddress": "dhaka",
+        "permanentAddress": "dhaka",
+        "ssc": "3.33",
+        "hsc": "3.20",
+        "cgpa": "3.95"
+    },
+    {
+        "name": "hasnatjelani",
+        "email": "chahad3340301@gmail.com",
+        "gender": "on",
+        "birthday": "2021-04-01",
+        "phonenumber": "01920962520",
+        "otp": "202046",
+        "presentAddress": "avc",
+        "permanentAddress": "aad",
+        "ssc": "3.33",
+        "hsc": "3.20",
+        "cgpa": "3.90"
+    }
+]
